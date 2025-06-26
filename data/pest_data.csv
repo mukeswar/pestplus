@@ -1,0 +1,5 @@
+Region,Date,Crop,Stage,Temp,Humidity,Rain,Pest,Outbreak
+Chitwan,2024-07-02,Rice,Tillering,32,93,25,Leaf Folder,1
+Bardiya,2024-07-03,Wheat,Flowering,28,70,5,Armyworm,0
+Kathmandu,2024-07-04,Maize,Germination,30,80,10,Stem Borer,0
+Bardiya,2024-07-05,Rice,Tillering,34,95,30,Leaf Folder,1
